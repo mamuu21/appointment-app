@@ -1,4 +1,5 @@
 import 'package:appointment_app/features/authentication/presentation/screen/home_screen.dart';
+import 'package:appointment_app/screens/bottombar.dart';
 import 'package:flutter/material.dart';
 import 'package:otp_text_field/otp_field.dart';
 import 'package:otp_text_field/style.dart';
@@ -45,7 +46,7 @@ class _OTPScreenState extends State<OTPScreen> {
                Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => HomeScreen(),
+                    builder: (context) => MyBottomNavigationBar(),
                   ),
                 );
             },

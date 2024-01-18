@@ -1,1 +1,0 @@
- C:\\Users\\icare\\AndroidStudioProjects\\appointment_app\\.dart_tool\\flutter_build\\68cf57e4e74e3a427903d5eb326a1fa0\\native_assets.yaml: 
